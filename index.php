@@ -14,7 +14,7 @@
                         <span id="typing-jp1" class="jp-part">空を繋ぐ、</span>
                         <span id="typing-jp2" class="jp-part">未来を拓く。</span>
                     </div>
-                    <div id="typing-en" class="en-title">Creative Company SLSCREATION</div>
+                    <div id="typing-en" class="en-title">Step to the Limit,Shape the future.</div>
                 </h2>
             </div>
 
