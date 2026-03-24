@@ -6,7 +6,7 @@
         <div class="bg">
             <div class="bg-overlay"></div> 
             <div class="bg-image-container">
-                <img src="assets/images/akafuji.webp" alt="赤富士" class="responsive-hero-img">
+                <img src="assets/images/cockpit.webp" alt="cockpit" class="responsive-hero-img">
             </div>
             <div class="title-container">
                 <h2 class="title">
